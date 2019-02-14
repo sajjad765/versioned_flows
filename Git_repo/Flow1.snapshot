@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "dataModelVersion" : "2"
+  },
+  "content" : {
+    "comments" : "",
+    "componentType" : "PROCESS_GROUP",
+    "connections" : [ ],
+    "controllerServices" : [ ],
+    "funnels" : [ ],
+    "identifier" : "d568b54f-50ca-38ee-81a4-9f191a43de37",
+    "inputPorts" : [ ],
+    "labels" : [ ],
+    "name" : "TestGitRepo",
+    "outputPorts" : [ ],
+    "position" : {
+      "x" : 1766.3899468315972,
+      "y" : 440.58553059895837
+    },
+    "processGroups" : [ ],
+    "processors" : [ ],
+    "remoteProcessGroups" : [ ],
+    "variables" : { }
+  }
+}
