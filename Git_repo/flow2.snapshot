@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "dataModelVersion" : "2"
+  },
+  "content" : {
+    "comments" : "",
+    "componentType" : "PROCESS_GROUP",
+    "connections" : [ ],
+    "controllerServices" : [ ],
+    "funnels" : [ ],
+    "identifier" : "dba390f6-8f00-32d9-8039-66a97ef90a59",
+    "inputPorts" : [ ],
+    "labels" : [ ],
+    "name" : "GitProcess",
+    "outputPorts" : [ ],
+    "position" : {
+      "x" : 1347.3899468315972,
+      "y" : 590.5855305989584
+    },
+    "processGroups" : [ ],
+    "processors" : [ ],
+    "remoteProcessGroups" : [ ],
+    "variables" : { }
+  }
+}
